@@ -12,6 +12,7 @@ TECH STACK
 - Matplotlib 
 - Seaborn
 - Git and Github 
+- jupyter notebook
 
 Datasets 
 
