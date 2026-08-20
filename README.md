@@ -36,3 +36,39 @@ Project Structure
 - Read me 
 - requirements 
 - main 
+
+function of the files - 
+- data_cleaner.ipynb 
+ - In this we will clean the dataset using pandas and numpy 
+
+- data_loader.py 
+ - In this we will load the dataset 
+
+- data_visualiser.ipynb
+ - In this jupyter notebook we will visualise the data 
+
+- visusalisation folder 
+ - In this folder we will save the pngs of the visualised datasets
+
+- cleaned dataset
+ - in this we will save the cleaned dataset which we cleaned in the data_cleaner jupyter notebook   
+
+- datasets folder 
+ - In this we have uncleaned datset which we will use for funther cleaning 
+
+
+flow of the project 
+
+- Uncleaned Dataset 
+        |
+-   analysing          
+        | 
+-    cleaning       
+        |
+- Cleaned dataset        
+        |
+-  visualising       
+        |
+- Visualised graphs 
+
+
